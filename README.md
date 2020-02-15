@@ -1,2 +1,2 @@
-# Django-playground.
+# Django-playground
 Django DRF / Level up
